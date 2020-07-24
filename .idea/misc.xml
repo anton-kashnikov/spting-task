@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/zoo-parts/part1/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part2/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part3/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part4/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part5/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part6/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part7/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part8/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part9/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part10/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part11/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part12/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part13/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part14/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part15/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part16/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part17/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part18/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/part19/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-task/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo-parts/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="JRB-202-11" project-jdk-type="JavaSDK" />
+</project>

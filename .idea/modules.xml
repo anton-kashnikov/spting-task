@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-task/spring-task.iml" filepath="$PROJECT_DIR$/spring-task/spring-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part1/zoo.iml" filepath="$PROJECT_DIR$/zoo-parts/part1/zoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part2/zoo (1).iml" filepath="$PROJECT_DIR$/zoo-parts/part2/zoo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part11/zoo (10).iml" filepath="$PROJECT_DIR$/zoo-parts/part11/zoo (10).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part12/zoo (11).iml" filepath="$PROJECT_DIR$/zoo-parts/part12/zoo (11).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part13/zoo (12).iml" filepath="$PROJECT_DIR$/zoo-parts/part13/zoo (12).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part14/zoo (13).iml" filepath="$PROJECT_DIR$/zoo-parts/part14/zoo (13).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part15/zoo (14).iml" filepath="$PROJECT_DIR$/zoo-parts/part15/zoo (14).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part16/zoo (15).iml" filepath="$PROJECT_DIR$/zoo-parts/part16/zoo (15).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part17/zoo (16).iml" filepath="$PROJECT_DIR$/zoo-parts/part17/zoo (16).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part18/zoo (17).iml" filepath="$PROJECT_DIR$/zoo-parts/part18/zoo (17).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part19/zoo (18).iml" filepath="$PROJECT_DIR$/zoo-parts/part19/zoo (18).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part3/zoo (2).iml" filepath="$PROJECT_DIR$/zoo-parts/part3/zoo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part4/zoo (3).iml" filepath="$PROJECT_DIR$/zoo-parts/part4/zoo (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part5/zoo (4).iml" filepath="$PROJECT_DIR$/zoo-parts/part5/zoo (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part6/zoo (5).iml" filepath="$PROJECT_DIR$/zoo-parts/part6/zoo (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part7/zoo (6).iml" filepath="$PROJECT_DIR$/zoo-parts/part7/zoo (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part8/zoo (7).iml" filepath="$PROJECT_DIR$/zoo-parts/part8/zoo (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part9/zoo (8).iml" filepath="$PROJECT_DIR$/zoo-parts/part9/zoo (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/part10/zoo (9).iml" filepath="$PROJECT_DIR$/zoo-parts/part10/zoo (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo-parts/zoo-parts.iml" filepath="$PROJECT_DIR$/zoo-parts/zoo-parts.iml" />
+    </modules>
+  </component>
+</project>
